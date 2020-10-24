@@ -1,0 +1,27 @@
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\bin\Debug\backgrounds\back.jpg
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\bin\Debug\backgrounds\space2.jpg
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\bin\Debug\sprites\elf.png
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\bin\Debug\OTTER.exe.config
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\bin\Debug\OTTER.xml
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\bin\Debug\OTTER.exe
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\bin\Debug\OTTER.pdb
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.csprojResolveAssemblyReference.cache
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.BGL.resources
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.Properties.Resources.resources
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.csproj.GenerateResource.Cache
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.exe
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.pdb
+C:\Users\Leo\Downloads\Projekt\OTTER\bin\Debug\backgrounds\back.jpg
+C:\Users\Leo\Downloads\Projekt\OTTER\bin\Debug\backgrounds\space2.jpg
+C:\Users\Leo\Downloads\Projekt\OTTER\bin\Debug\sprites\elf.png
+C:\Users\Leo\Downloads\Projekt\OTTER\bin\Debug\OTTER.exe.config
+C:\Users\Leo\Downloads\Projekt\OTTER\bin\Debug\OTTER.xml
+C:\Users\Leo\Downloads\Projekt\OTTER\bin\Debug\OTTER.exe
+C:\Users\Leo\Downloads\Projekt\OTTER\bin\Debug\OTTER.pdb
+C:\Users\Leo\Downloads\Projekt\OTTER\obj\x86\Debug\OTTER.csprojAssemblyReference.cache
+C:\Users\Leo\Downloads\Projekt\OTTER\obj\x86\Debug\OTTER.BGL.resources
+C:\Users\Leo\Downloads\Projekt\OTTER\obj\x86\Debug\OTTER.Properties.Resources.resources
+C:\Users\Leo\Downloads\Projekt\OTTER\obj\x86\Debug\OTTER.csproj.GenerateResource.cache
+C:\Users\Leo\Downloads\Projekt\OTTER\obj\x86\Debug\OTTER.csproj.CoreCompileInputs.cache
+C:\Users\Leo\Downloads\Projekt\OTTER\obj\x86\Debug\OTTER.exe
+C:\Users\Leo\Downloads\Projekt\OTTER\obj\x86\Debug\OTTER.pdb
